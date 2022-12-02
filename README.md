@@ -1,6 +1,2 @@
-[insta]   c2h6.svlh
-
-[twitter] @c2h6_svlh
-
-[discord] .gg/fg7UKvb6Nw
-
+https://www.hackerrank.com/nqrdre
+https://leetcode.com/Nardre
