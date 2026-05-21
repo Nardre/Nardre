@@ -1,5 +1,2 @@
-https://codeforces.com/profile/Nardre
-
-https://leetcode.com/Nardre
-
-https://www.hackerrank.com/nqrdre
+Visit my website:
+https://nardre.com
