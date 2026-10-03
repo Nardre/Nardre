@@ -1,2 +1,2 @@
-Visit my website:
+Check my website:
 https://nardre.com
